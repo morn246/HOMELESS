@@ -5,3 +5,4 @@ It communicated with the BLFrontend it passed to the server and then to BLBacken
 The BLBackend addresses the DAL, which is the layer that extracts the data from the database.
 At BE, of course, we defined the entities: tenant, rental agent, apartment, favorite apartment, city, college, etc.
 What could have been done? Search for apartments of course, look for tenants by age, place of study, city, send messages to the site owner on the contact page, view the apartments I marked as favorites. 
+Implemented it  in C#
