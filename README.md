@@ -1,4 +1,4 @@
-# Projects
+# WEB in VS
 The site in Web Form. In the display layer we used web languages:: Html, Java Script, CSS
 The other layers were written in Sea Sharp.
 It communicated with the BLFrontend it passed to the server and then to BLBackend where all the functions that execute the logic were.
